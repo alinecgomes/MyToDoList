@@ -1,5 +1,5 @@
 # MyToDoList
-Aplicativo Móvel de Gestão de Tarefas
+Aplicativo Móvel de Gestão de Tarefas  
 <img width="135" alt="01" src="https://github.com/alinecgomes/MyToDoList/assets/123496040/6be7eb16-3272-40e8-9b8c-ae0d78854714">
 <img width="134" alt="02" src="https://github.com/alinecgomes/MyToDoList/assets/123496040/b3a29d40-6239-4485-afbd-a39b7e00b29b">
 <img width="126" alt="03" src="https://github.com/alinecgomes/MyToDoList/assets/123496040/4ea3d2b4-68ec-40f0-9858-3e224741953e">
